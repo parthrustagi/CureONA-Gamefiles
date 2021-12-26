@@ -1,0 +1,241 @@
+fileFormatVersion: 2
+guid: 8d46d83108f26d843b320c0b013a2e6d
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: 'Furniture Systems <baca : baca>'
+    100004: 'Furniture Systems <baca : baca> 1'
+    100006: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1>'
+    100008: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1> 1'
+    100010: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2>'
+    100012: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 1'
+    100014: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 2'
+    100016: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 3'
+    100018: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 4'
+    100020: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3>'
+    100022: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 1'
+    100024: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 2'
+    100026: 'Furniture Systems <giris1 : giris1>'
+    100028: 'Furniture Systems <giris1 : giris1> 1'
+    100030: 'Furniture Systems <lamba : lamba>'
+    100032: 'Furniture Systems <lamba : lamba> 1'
+    100034: 'Furniture Systems <lamba : lamba> 2'
+    100036: 'Furniture Systems <lamba : lamba> 3'
+    100038: 'Furniture Systems <lamba : lamba> 4'
+    100040: 'Furniture Systems <onpencere : onpencere>'
+    100042: 'Furniture Systems <onpencere : onpencere> 1'
+    100044: 'Furniture Systems <onpencere : onpencere> 2'
+    100046: 'Furniture Systems <yancam : yancam>'
+    100048: 'Furniture Systems <yancam : yancam> 1'
+    100050: 'Furniture Systems <yancam : yancam> 2'
+    100052: 'Walls <Basic Wall : Deneme : >'
+    100054: 'Walls <Basic Wall : Deneme : > 1'
+    100056: 'Walls <Basic Wall : norma_duvar : >'
+    100058: 'Walls <Basic Wall : norma_duvar : > 1'
+    400000: //RootNode
+    400002: 'Furniture Systems <baca : baca>'
+    400004: 'Furniture Systems <baca : baca> 1'
+    400006: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1>'
+    400008: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1> 1'
+    400010: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2>'
+    400012: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 1'
+    400014: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 2'
+    400016: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 3'
+    400018: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 4'
+    400020: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3>'
+    400022: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 1'
+    400024: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 2'
+    400026: 'Furniture Systems <giris1 : giris1>'
+    400028: 'Furniture Systems <giris1 : giris1> 1'
+    400030: 'Furniture Systems <lamba : lamba>'
+    400032: 'Furniture Systems <lamba : lamba> 1'
+    400034: 'Furniture Systems <lamba : lamba> 2'
+    400036: 'Furniture Systems <lamba : lamba> 3'
+    400038: 'Furniture Systems <lamba : lamba> 4'
+    400040: 'Furniture Systems <onpencere : onpencere>'
+    400042: 'Furniture Systems <onpencere : onpencere> 1'
+    400044: 'Furniture Systems <onpencere : onpencere> 2'
+    400046: 'Furniture Systems <yancam : yancam>'
+    400048: 'Furniture Systems <yancam : yancam> 1'
+    400050: 'Furniture Systems <yancam : yancam> 2'
+    400052: 'Walls <Basic Wall : Deneme : >'
+    400054: 'Walls <Basic Wall : Deneme : > 1'
+    400056: 'Walls <Basic Wall : norma_duvar : >'
+    400058: 'Walls <Basic Wall : norma_duvar : > 1'
+    2100000: Darker_Brown
+    2100002: lamp
+    2100004: paslidemir
+    2100006: pencereucgen
+    2100008: 'Material #26'
+    2100010: yancamlar
+    2100012: 'Material #93'
+    2100014: 'Material #163'
+    2100016: lambert1
+    2100018: 'Material #27'
+    2100020: duvar
+    2100022: Dark_Brown
+    2100024: 'Material #29'
+    2300000: 'Furniture Systems <baca : baca> 1'
+    2300002: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1> 1'
+    2300004: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 1'
+    2300006: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 2'
+    2300008: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 3'
+    2300010: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 4'
+    2300012: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 1'
+    2300014: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 2'
+    2300016: 'Furniture Systems <giris1 : giris1> 1'
+    2300018: 'Furniture Systems <lamba : lamba> 1'
+    2300020: 'Furniture Systems <lamba : lamba> 2'
+    2300022: 'Furniture Systems <lamba : lamba> 3'
+    2300024: 'Furniture Systems <lamba : lamba> 4'
+    2300026: 'Furniture Systems <onpencere : onpencere> 1'
+    2300028: 'Furniture Systems <onpencere : onpencere> 2'
+    2300030: 'Furniture Systems <yancam : yancam> 1'
+    2300032: 'Furniture Systems <yancam : yancam> 2'
+    2300034: 'Walls <Basic Wall : Deneme : > 1'
+    2300036: 'Walls <Basic Wall : norma_duvar : > 1'
+    3300000: 'Furniture Systems <baca : baca> 1'
+    3300002: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1> 1'
+    3300004: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 1'
+    3300006: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 2'
+    3300008: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 3'
+    3300010: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 4'
+    3300012: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 1'
+    3300014: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 2'
+    3300016: 'Furniture Systems <giris1 : giris1> 1'
+    3300018: 'Furniture Systems <lamba : lamba> 1'
+    3300020: 'Furniture Systems <lamba : lamba> 2'
+    3300022: 'Furniture Systems <lamba : lamba> 3'
+    3300024: 'Furniture Systems <lamba : lamba> 4'
+    3300026: 'Furniture Systems <onpencere : onpencere> 1'
+    3300028: 'Furniture Systems <onpencere : onpencere> 2'
+    3300030: 'Furniture Systems <yancam : yancam> 1'
+    3300032: 'Furniture Systems <yancam : yancam> 2'
+    3300034: 'Walls <Basic Wall : Deneme : > 1'
+    3300036: 'Walls <Basic Wall : norma_duvar : > 1'
+    4300000: 'Furniture Systems <baca : baca>'
+    4300002: 'Furniture Systems <lamba : lamba>'
+    4300004: 'Furniture Systems <lamba : lamba>'
+    4300006: 'Furniture Systems <lamba : lamba>'
+    4300008: 'Furniture Systems <lamba : lamba>'
+    4300010: 'Furniture Systems <onpencere : onpencere>'
+    4300012: 'Furniture Systems <onpencere : onpencere>'
+    4300014: 'Furniture Systems <yancam : yancam>'
+    4300016: 'Furniture Systems <yancam : yancam>'
+    4300018: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3>'
+    4300020: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3>'
+    4300022: 'Furniture Systems <giris1 : giris1>'
+    4300024: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2>'
+    4300026: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2>'
+    4300028: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2>'
+    4300030: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2>'
+    4300032: 'Walls <Basic Wall : norma_duvar : >'
+    4300034: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1>'
+    4300036: 'Walls <Basic Wall : Deneme : >'
+    6400000: 'Furniture Systems <baca : baca> 1'
+    6400002: 'Furniture Systems <Furniture Systems 1 : Furniture Systems 1> 1'
+    6400004: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 1'
+    6400006: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 2'
+    6400008: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 3'
+    6400010: 'Furniture Systems <Furniture Systems 2 : Furniture Systems 2> 4'
+    6400012: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 1'
+    6400014: 'Furniture Systems <Furniture Systems 3 : Furniture Systems 3> 2'
+    6400016: 'Furniture Systems <giris1 : giris1> 1'
+    6400018: 'Furniture Systems <lamba : lamba> 1'
+    6400020: 'Furniture Systems <lamba : lamba> 2'
+    6400022: 'Furniture Systems <lamba : lamba> 3'
+    6400024: 'Furniture Systems <lamba : lamba> 4'
+    6400026: 'Furniture Systems <onpencere : onpencere> 1'
+    6400028: 'Furniture Systems <onpencere : onpencere> 2'
+    6400030: 'Furniture Systems <yancam : yancam> 1'
+    6400032: 'Furniture Systems <yancam : yancam> 2'
+    6400034: 'Walls <Basic Wall : Deneme : > 1'
+    6400036: 'Walls <Basic Wall : norma_duvar : > 1'
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

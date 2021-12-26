@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: cfba29501d4b60a4dbeec7b57b97dc54
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Block_4
+    100002: City
+    100004: Cube_7
+    100006: Firtree
+    100008: Firtree_1
+    100010: Firtree_2
+    100012: Firtree_3
+    100014: Firtree_4
+    100016: Firtree_47
+    100018: group3
+    100020: Moon
+    100022: Moon_Light
+    100024: Physical_Sky_1
+    100026: Sky_Null
+    100028: //RootNode
+    100030: Trees
+    400000: Block_4
+    400002: City
+    400004: Cube_7
+    400006: Firtree
+    400008: Firtree_1
+    400010: Firtree_2
+    400012: Firtree_3
+    400014: Firtree_4
+    400016: Firtree_47
+    400018: group3
+    400020: Moon
+    400022: Moon_Light
+    400024: Physical_Sky_1
+    400026: Sky_Null
+    400028: //RootNode
+    400030: Trees
+    2100000: World ap
+    2100002: Brown1
+    2100004: Darker_Green
+    2100006: White
+    2100008: lambert11
+    2100010: Dark_Green
+    2300000: Cube_7
+    2300002: Firtree
+    2300004: Firtree_1
+    2300006: Firtree_2
+    2300008: Firtree_3
+    2300010: Firtree_4
+    2300012: Firtree_47
+    3300000: Cube_7
+    3300002: Firtree
+    3300004: Firtree_1
+    3300006: Firtree_2
+    3300008: Firtree_3
+    3300010: Firtree_4
+    3300012: Firtree_47
+    4300000: Firtree_4
+    4300002: Cube_7
+    4300004: Firtree_3
+    4300006: Firtree_47
+    4300008: Firtree
+    4300010: Firtree_1
+    4300012: Firtree_2
+    6400000: Cube_7
+    6400002: Firtree
+    6400004: Firtree_1
+    6400006: Firtree_2
+    6400008: Firtree_3
+    6400010: Firtree_4
+    6400012: Firtree_47
+    9500000: //RootNode
+    10800000: Moon_Light
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
